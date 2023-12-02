@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Car Rental and Reservation</title>
+    </head>
+    <body>
+        <main>
+     <h1>~Welcome to Car Rentals~</h1>
+    <section>
+        <h2>Your Trusted Partner in Car Rental</h2>
+        <h3>Explore wide range of car variety with us</h3>
+        <img src="https://www.reviewjournal.com/wp-content/uploads/2019/11/12967314_web1_copy_Garage-Thermal.jpg?crop=1" alt="cars lined up in garage">
+        <p>See more <a target="_blank" href="cars.html">photos</a> in our gallery.</p>
+    </section>
+
+    </body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Available Cars</title>
+</head>
+<body>
+    <header>
+        <h1>Available Cars</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="contact.html">Contact Us</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Our Fleet</h2>
+        <ul>
+            <li>
+                <h3>Car Model 1</h3>
+                <p>Price: $XX/day</p>
+                <button>Book Now</button>
+            </li>
+            <li>
+                <h3>Car Model 2</h3>
+                <p>Price: $XX/day</p>
+                <button>Book Now</button>
+            </li>
+            <!-- Add more cars as needed -->
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2023 Car Rental Service</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Rental And Reservation Website</title>
+    <!-- Link TO CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Box Icons --> 
+    <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+      <h1>Welcome to Car Rental and Reservations</h1><br />
+      <h2>Your Trusted Partner in Car Rental</h2>
+        <a herf="#" class="logo"><img src="https://content.altexsoft.com/media/2020/11/shutterstock_147619601-1.jpg" heigth="500" width="500"></a>
+    </header>
+<section>
+     <ul class="navbar">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#ride">ride</a></li>
+        <li><a href="#reservation">reservation</a></li>
+        <li><a href="#about">about</a></li>
+        <li><a href="#services">services</a></li>
+        <li><a href="#reviews">reviews</a></li>
+     </ul>
+<a href="#" class="sign-up">Sign Up</a><br />
+        <a href="#" class="sign-in">Sign In</a>
+
+<section>
+    <h3><em>Explore wide range of car variety with us</em></h3>
+        <img src="https://www.reviewjournal.com/wp-content/uploads/2019/11/12967314_web1_copy_Garage-Thermal.jpg?crop=1" alt="cars lined up in garage" heigth="500" width="500">
+        <p>See more <a target="_blank" href="cars.html">photos</a> in our gallery.</p>
+</section > 
+
+   <section>
+      <h1>Why You Should choose us?</h1>
+      <ul>
+        <li>Vast Fleet Selection</li>
+        <li>Affordable Pricing</li>
+        <li>Easy Booking Process</li>
+        <li> Convenient Pick-up and Drop-off</li>
+        <li> Flexible Rental Options</li>
+        <li>Customer Service</li>
+        <li>Clean and Well-Maintained Vehicles</li>
+        <li>Special Offers and Discounts</li>
+        <li>GPS and Additional Services</li>
+        <li>Loyalty Rewards</li>
+      </ul>
+    </section>
+<section>
+<h1><em>Our Exclusives:</em></h1>
+         <li>Porshe</li>
+        <img src="https://images.hindustantimes.com/auto/img/2022/02/17/600x338/Porsche_Macan_T_2_1645069159810_1645069267756.jpeg" heigth="500" width="500"><hr>
+        <img src="https://images.hindustantimes.com/auto/img/2022/02/17/600x338/Porsche_Macan_T_1_1645068985253_1645069591722.jpeg" heigth="500" width="500"><hr>
+        <img src="https://static.autox.com/uploads/2021/07/Porsche-Macan-GTS-2022-interior.jpg" heigth="500" width="500"><br>
+    </section>
+</body>
+</html>
+
+
+
+
